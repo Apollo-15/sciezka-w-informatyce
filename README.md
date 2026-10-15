@@ -8,4 +8,7 @@ Repozytorium przedstawia moją drogę rozwoju w informatyce.
 ## Dokumentacja
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
+## Narzedzia
+Korzystam z systemu Linux
+
 Autor: Maksym Panov, PJATK Gdańsk.
