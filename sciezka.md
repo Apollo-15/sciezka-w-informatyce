@@ -20,4 +20,11 @@ Moja sciezka w informatyce. Maksym Panov
 
 #Cele
 - Rozwijac umiejetnosci programistyczne
-- doskonalic C++ i pracowac w brazy HFT
+- doskonalic C++ i pracowac w branzy HFT
+
+#Plan rozwoju
+- Rozwijac imejetnosci w C++
+- pracowac nad wlasnym projektem HFT
+- poznawac nowe technologie
+
+
